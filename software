@@ -1,3 +1,4 @@
 int,a,b,c
 read a,b 
-sum b-c
+sum-a+b
+diffrence b-c
